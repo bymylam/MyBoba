@@ -21,11 +21,11 @@ MyBoba is an iOS boba-ordering application built with Swift, UIKit, and Storyboa
 This project was built to strengthen iOS development skills, including UI design, application architecture, and state management. It provides a user-friendly experience that allows users to customize and order boba drinks in advance, simulating a real-world ordering system while following best practices in Swift and UIKit.
 
 ## Screenshots
-<img width="79" height="1456" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 49 11" src="https://github.com/user-attachments/assets/d0b1d136-2caf-4173-aff8-f71c1054bd96" />
-<img width="79" height="1456" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 51 22" src="https://github.com/user-attachments/assets/73e01d5b-0c64-4d19-8631-4127122a8aff" />
-<img width="79" height="1456" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 51 57" src="https://github.com/user-attachments/assets/02f12d05-6b81-4a0e-a432-4418a09dba0e" />
-<img width="79" height="1456" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 53 00" src="https://github.com/user-attachments/assets/e13108d0-3e93-45f0-8108-bc0801716a12" />
-<img width="79" height="1456" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 53 16" src="https://github.com/user-attachments/assets/35dffbcb-de28-4bbc-9890-69c895f8be78" />
+<img width="129" height="1506" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 49 11" src="https://github.com/user-attachments/assets/d0b1d136-2caf-4173-aff8-f71c1054bd96" />
+<img width="129" height="1506" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 51 22" src="https://github.com/user-attachments/assets/73e01d5b-0c64-4d19-8631-4127122a8aff" />
+<img width="129" height="1506" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 51 57" src="https://github.com/user-attachments/assets/02f12d05-6b81-4a0e-a432-4418a09dba0e" />
+<img width="129" height="1506" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 53 00" src="https://github.com/user-attachments/assets/e13108d0-3e93-45f0-8108-bc0801716a12" />
+<img width="129" height="1506" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 53 16" src="https://github.com/user-attachments/assets/35dffbcb-de28-4bbc-9890-69c895f8be78" />
 
 ## How to Run
 1. Clone this repository: https://github.com/yourusername/MyBoba.git
