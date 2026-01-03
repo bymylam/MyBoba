@@ -33,7 +33,7 @@ This project was built to strengthen iOS development skills, including UI design
 3. Build and run the app on a simulator or device
 
 ## Status
-Completed as the final project for the Apple iOS App Development class, receiving a grade of 100/100. The app is fully functional but not yet published on the App Store. Additional features and improvements are planned for future updates.
+Completed as the final project for the Apple iOS App Development class, receiving a grade of A. The app is fully functional but not yet published on the App Store. Additional features and improvements are planned for future updates.
 
 ## Author
 My Lam
