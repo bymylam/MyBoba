@@ -28,7 +28,7 @@ This project was built to strengthen iOS development skills, including UI design
 <img width="129" height="1506" alt="Simulator Screenshot - iPhone 15 Pro - 2026-01-03 at 11 53 16" src="https://github.com/user-attachments/assets/35dffbcb-de28-4bbc-9890-69c895f8be78" />
 
 ## How to Run
-1. Clone this repository: https://github.com/yourusername/MyBoba.git
+1. Clone this repository: [https://github.com/yourusername/MyBoba.git](https://github.com/bymylam/MyBoba?tab=readme-ov-file)
 2. Open `MyBoba.xcodeproj` in Xcode
 3. Build and run the app on a simulator or device
 
